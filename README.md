@@ -2,6 +2,13 @@
 
 This project applies dynamic programming and forward simulation to optimize airline overbooking and pricing strategies. The goal is to maximize expected discounted profit while managing customer disruptions and operational constraints.
 
+## Authors
+
+- Biagio Alessandrello - [biagi0](https://github.com/biagi0)
+- Jenna Ferguson - [jennamferguson](https://github.com/jennamferguson)
+- Kimble Horsak - [kghorsak1](https://github.com/kghorsak1)
+- Twinkle Panda - [p-twinkle](https://github.com/p-twinkle)
+
 ## Overview
 
 We model an airline’s ticket sales over a 365-day period, allowing decisions on coach and first-class pricing. The model incorporates:
@@ -42,10 +49,3 @@ The Seasonality DP Policy is the most effective overall. It delivers the highest
 ├── report/       # Final report and results
 └── README.md
 ```
-
-## Authors
-
-- Biagio Alessandrello - biagi0
-- Jenna Ferguson - ([jennamferguson](https://github.com/jennamferguson)) 
-- Kimble Horsak - kghorsak1
-- Twinkle Panda - p-twinkle
