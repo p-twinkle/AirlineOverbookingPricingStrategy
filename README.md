@@ -46,6 +46,6 @@ The Seasonality DP Policy is the most effective overall. It delivers the highest
 ## Authors
 
 - Biagio Alessandrello - biagi0
-- Jenna Ferguson - jennamferguson
+- Jenna Ferguson - https://github.com/jennamferguson
 - Kimble Horsak - kghorsak1
 - Twinkle Panda - p-twinkle
